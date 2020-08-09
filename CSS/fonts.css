@@ -1,0 +1,55 @@
+/* font family abel */
+
+@font-face{
+    font-family: Abel;
+    src: url(../fonts/Abel/Abel-Regular.ttf);
+}
+
+/* font family Livvic */
+
+@font-face{
+    font-family: Livvic;
+    src: url(../fonts/Livvic/Livvic-Regular.ttf);
+}
+
+/* font family anton */
+
+@font-face{
+    font-family: Anton;
+    src: url(../fonts/Anton/Anton-Regular.ttf);
+}
+
+/* font family josefin */
+
+@font-face{
+    font-family: Josefin;
+    src: url(../fonts/Josefin_Sans/JosefinSans-Italic-VariableFont_wght.ttf);
+}
+
+/* font family lexenda */
+
+@font-face{
+    font-family: Lexenda;
+    src: url(../fonts/Lexend_Deca/LexendDeca-Regular.ttf);
+}
+
+@font-face{
+    font-family: kannada;
+    src: url(/fonts/Baloo_Tamma_2/BalooTamma2-Bold.ttf);
+}
+@font-face{
+    font-family: kannada1;
+    src: url(/fonts/Baloo_Tamma_2/BalooTamma2-Medium.ttf);
+}
+@font-face{
+    font-family: kannada2;
+    src: url(/fonts/Baloo_Tamma_2/BalooTamma2-Regular.ttf);
+}
+@font-face{
+    font-family: kannada3;
+    src: url(/fonts/Baloo_Tamma_2/BalooTamma2-SemiBold.ttf);
+}
+@font-face{
+    font-family: kannada4;
+    src: url(/fonts/Baloo_Tamma_2/BalooTamma2-ExtraBold.ttf);
+}
